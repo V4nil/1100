@@ -54,8 +54,8 @@
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |   20.08.2022    |    Es muss alles funktionieren       |    90min          |               |
-| ...  |       |           |              |               |
+| 1.A  |   30.08.2022    |   zahlen eingeben      |    30         |               |
+
 
 Total: 
 
