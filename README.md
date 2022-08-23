@@ -30,17 +30,17 @@
 
 ### 1.3 Testfälle
 
+[11:26] 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
-| ---- | ------------ | ------- | ----------------- |         
-| ...  |              |         |                   |               
-| ...  |              |         |                   |               
-| ...  |              |         |                   |               
-| ...  |              |         |                   |               
-| ...  |              |         |                   |               
-| ...  |              |         |                   |               
-| ...  |              |         |                   |               
-| ...  |              |         |                   |               
-  
+| ---- | ------------ | ------- | ----------------- || 1.1  | Programm gestartet | Eine Zahl eingeben | Das Programm ist nicht abgestürtzt. |
+| 1.2 | Programm gestartet | Einen Text eingeben | Das Programm gibt einen Fehler aus. |
+| 2.1 | Programm gestartet | Eine Zahl eingeben | Das Programm zeigt die eingegebenen Zahlen. |
+| 3.1 | Programm gestartet | Eine Zahl eingeben | Das Programm gibt an, ob die Zahl zu hoch oder zu tief ist. |
+| 4.1  | Programm gestartet | Eine Zahl eingeben | Das Programm zeigt an, ob die Zahl der gesuchten Zahl enspricht. |
+| 5.1  | Programm gestartet | Eine Zahl eingeben | Das Programm zeigt mit Farben an, ob die richtige Zahl gefunden wurde. |
+| 6.1  | Programm gestartet | Eine Zahl oder Text eingeben | nachedem ein Text eingegeben wurde, gibt das Programm die Fehler aus und zeigt an, dass nur Zahlen zwischen 1-100 akzeptiert werden. |
+
+
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
@@ -54,7 +54,7 @@
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
+| 1.A  |   20.08.2022    |    Es muss alles funktionieren       |    90min          |               |
 | ...  |       |           |              |               |
 
 Total: 
