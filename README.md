@@ -5,9 +5,9 @@
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+| 30.08.2022  | 0.0.1   |  |
+| 30.08.2022      | 0.0.2    |                                                              |
+| 30.08.2022      | 0.0.3  |                                                              |
 
 ## 1 Informieren
 
